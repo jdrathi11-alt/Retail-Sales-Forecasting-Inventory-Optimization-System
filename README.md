@@ -232,8 +232,7 @@ For a recruiter-facing repository:
 - Never commit secrets, local virtual environments, or large generated datasets.
 
 ## Author
+**Jayesh Rathi** — 3rd Year IT Student, Government College of Engineering, Amravati  
+[LinkedIn](https://www.linkedin.com/in/jayesh-rathi-5ab8973b6) | [Email](mailto:jayeshrathinew@gmail.com)
 
-**Author:** `[Your Name]`  
-**Role / focus:** `[Data Scientist | ML Engineer | Analytics Engineer]`  
-**LinkedIn:** `[Add profile URL]`  
-**GitHub:** `[Add profile URL]`
+
