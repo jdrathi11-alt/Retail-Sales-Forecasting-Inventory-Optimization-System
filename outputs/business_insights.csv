@@ -1,0 +1,5 @@
+insight_type,insight,value
+Model quality,Time-aware holdout MAE is 9.35 units.,9.345868277190577
+Demand outlook,The forecast peaks on 2024-01-09 across all locations.,2675.801546028805
+Inventory action,"22 location(s) are below reorder point; recommended replenishment is 17,244 units.",17244.0
+Stockout signal,Historical stockout rate averages 3.4% across planned locations.,0.03373287671232877

@@ -1,0 +1,50 @@
+{
+  "mae": 9.345868277190577,
+  "rmse": 12.86080225704011,
+  "mape_percent": 13.774325863912262,
+  "train_rows": 8608,
+  "test_rows": 2176,
+  "test_start": "2023-10-25",
+  "top_features": [
+    {
+      "feature": "rolling_mean_28",
+      "importance": 0.771028274944766
+    },
+    {
+      "feature": "promotion",
+      "importance": 0.08585109171097607
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.056639134879909
+    },
+    {
+      "feature": "rolling_mean_7",
+      "importance": 0.016692419189248336
+    },
+    {
+      "feature": "lag_1",
+      "importance": 0.012891363688745865
+    },
+    {
+      "feature": "lag_7",
+      "importance": 0.012244811870625299
+    },
+    {
+      "feature": "rolling_std_7",
+      "importance": 0.012100607595578463
+    },
+    {
+      "feature": "day_of_month",
+      "importance": 0.009567794267974923
+    },
+    {
+      "feature": "trend_day",
+      "importance": 0.005186433350459393
+    },
+    {
+      "feature": "day_of_year",
+      "importance": 0.005082390704999166
+    }
+  ]
+}
